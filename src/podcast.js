@@ -5,10 +5,10 @@ import { Routes, Route, Link } from "react-router-dom";
 import Home from "./home";
 import NavBar from "./navBar";
 
-import "/public/styles.css";
-import "/public/Professional_Profile_Picture_Headshot_Circle.png";
-import "/public/Israel_Background3.png";
-import "/public/Trey_Chesser_Icon.PNG";
+import "styles.css";
+import "Professional_Profile_Picture_Headshot_Circle.png";
+import "Israel_Background3.png";
+import "Trey_Chesser_Icon.PNG";
 
 function Podcast() {
   return (
