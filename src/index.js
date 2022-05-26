@@ -7,10 +7,11 @@ import { BrowserRouter } from "react-router-dom";
 import { Routes, Route, Redirect, Switch } from "react-router-dom";
 import { Link } from "react-router-dom";
 
-import "styles.css";
-import "Professional_Profile_Picture_Headshot_Circle.png";
-import "Israel_Background3.png";
-import "Trey_Chesser_Icon.PNG";
+import "./styles.css";
+import "./Professional_Profile_Picture_Headshot_Circle.png";
+import "./Israel_Background3.png";
+import "./Trey_Chesser_Icon.PNG";
+import "./Gator2.jpg";
 
 const rootElement = document.getElementById("root");
 const root = createRoot(rootElement);

@@ -4,10 +4,11 @@ import { BrowserRouter } from "react-router-dom";
 import { Routes, Route, Link } from "react-router-dom";
 import Podcast from "./podcast";
 
-import "styles.css";
-import "Professional_Profile_Picture_Headshot_Circle.png";
-import "Israel_Background3.png";
-import "Trey_Chesser_Icon.PNG";
+import "./styles.css";
+import "./Professional_Profile_Picture_Headshot_Circle.png";
+import "./Israel_Background3.png";
+import "./Trey_Chesser_Icon.PNG";
+import "./Gator2.jpg";
 
 function NavBar() {
   return (
