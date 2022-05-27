@@ -7,7 +7,7 @@ import Podcast from "./podcast";
 import "./styles.css";
 import "./images/Professional_Profile_Picture_Headshot_Circle.png";
 import "./images/Israel_Background3.png";
-import "./images/Trey_Chesser_Icon.png";
+import "./images/Trey_Chesser_Icon.PNG";
 import "./images/Gator2.jpg";
 
 
@@ -18,7 +18,7 @@ function NavBar() {
       <div className="div0">
         <img
           className="TreyIcon"
-          src={require("./images/Trey_Chesser_Icon.png")}
+          src={require("./images/Trey_Chesser_Icon.PNG")}
           alt="Trey Chesser Icon"
         />
         <p className="navBarP1">

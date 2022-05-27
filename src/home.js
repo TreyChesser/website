@@ -8,7 +8,7 @@ import NavBar from "./navBar";
 import "./styles.css";
 import "./images/Professional_Profile_Picture_Headshot_Circle.png";
 import "./images/Israel_Background3.png";
-import "./images/Trey_Chesser_Icon.png";
+import "./images/Trey_Chesser_Icon.PNG";
 import "./images/Gator2.jpg";
 
 function Home() {
