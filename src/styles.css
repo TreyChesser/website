@@ -14,20 +14,6 @@
   height: 5rem;
 }
 
-/* .Engineer {
-  width: 120%;
-  position: relative;
-  padding-left: 0px;
-  z-index: -2;
-} */
-
-/* .Gator {
-  background-image: url('Gator.png');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
-} */
-
 .aStyle {
   text-decoration: none;
   color: lightgray;
@@ -94,7 +80,7 @@
 .div3 {
   padding-left: 100px;
   padding-right: 100px;
-  background-image: url("Gator2.jpg");
+  background-image: url("./images/Gator2.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;

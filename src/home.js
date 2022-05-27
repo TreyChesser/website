@@ -6,16 +6,16 @@ import Podcast from "./podcast";
 import NavBar from "./navBar";
 
 import "./styles.css";
-import "./Professional_Profile_Picture_Headshot_Circle.png";
-import "./Israel_Background3.png";
-import "./Trey_Chesser_Icon.PNG";
-import "./Gator2.jpg";
+import "./images/Professional_Profile_Picture_Headshot_Circle.png";
+import "./images/Israel_Background3.png";
+import "./images/Trey_Chesser_Icon.PNG";
+import "./images/Gator2.jpg";
 
 function Home() {
   return (
     <div>
       <div>
-        <img className="Israel" src="Israel_Background3.png" alt="Israel" />
+      <img className="Israel" src={require("./images/Israel_Background3.png")} alt="Israel" />
       </div>
       <Routes>
         <Route path="/podcast" element={<Podcast />} />
@@ -27,7 +27,7 @@ function Home() {
             <td style={{ padding: "50px" }}>
               <img
                 className="ProfilePic"
-                src="Professional_Profile_Picture_Headshot_Circle.png"
+                src={require("./images/Professional_Profile_Picture_Headshot_Circle.png")}
                 alt="Trey Chesser"
               />
             </td>

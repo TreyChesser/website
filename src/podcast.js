@@ -6,10 +6,10 @@ import Home from "./home";
 import NavBar from "./navBar";
 
 import "./styles.css";
-import "./Professional_Profile_Picture_Headshot_Circle.png";
-import "./Israel_Background3.png";
-import "./Trey_Chesser_Icon.PNG";
-import "./Gator2.jpg";
+// import "./Professional_Profile_Picture_Headshot_Circle.png";
+// import "./Israel_Background3.png";
+// import "./Trey_Chesser_Icon.PNG";
+// import "./Gator2.jpg";
 
 
 function Podcast() {
