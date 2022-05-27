@@ -24,7 +24,7 @@ function Home() {
         <h1 className="header">About Me</h1>
         <table>
           <tr>
-            <td style={{ padding: "50px" }}>
+            <td style={{ padding: "0px 50px 0px 0px" }}>
               <img
                 className="ProfilePic"
                 src={require("./images/Professional_Profile_Picture_Headshot_Circle.png")}
